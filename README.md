@@ -101,12 +101,10 @@ ujian js/
 
 Jika tanggal hari ini adalah 20 Mei 2026, output akan:
 ```
-=== FORMAT TANGGAL SAAT INI ===
 Format 1 (mm-dd-yyyy): 05-20-2026
 Format 2 (mm/dd/yyyy): 05/20/2026
 Format 3 (dd-mm-yyyy): 20-05-2026
 Format 4 (dd/mm/yyyy): 20/05/2026
-==============================
 ```
 
 ## ⚠️ Validasi dan Error Handling
